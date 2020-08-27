@@ -18,7 +18,7 @@
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr -->
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
-[instagram]: https://www.instagram.com/?hl=en 
+[instagram]: https://www.instagram.com/rathod_tejas_777/?hl=en 
 [linkedin]: https://www.linkedin.com/feed/
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
