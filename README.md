@@ -10,7 +10,7 @@
 - 🥅 2020 Goals: make better profile for future
 - 🌱 I’m learning Angular,React,Typescript,MEAN,MERN.
 - I'm currently focusing on improving my DS and Algo skill
-- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/rathod-tejas-317b3a1aa/) 
+- 📫 How to reach me:  #### *To know more about me visit my [portfolio](https://tejas281.netlify.app/)*
 
 ## CP where i'm practice :
 - [codeforces](https://codeforces.com/profile/Rtejas "codeforces profile").
