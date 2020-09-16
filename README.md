@@ -2,7 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-RathodTejas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rathod-tejas-317b3a1aa/)](https://www.linkedin.com/in/rathod-tejas-317b3a1aa/)
 ![Portfolio Badge](https://img.shields.io/badge/-@_TejasRathod-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@19it197)https://medium.com/@tejas1188245
 [![Gmail Badge](https://img.shields.io/badge/-RathodTejas-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tejas1188245@gmail.com)](mailto:tejas1188245@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rathodtejas-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tejas1188245@gmail.com)](mailto:tejas1188245@gmail.com)
 ### Welcome to my profile!
+
 ### Welcome to my profile!
 ## Competitive programmer/Full stack developer
 ### <p>“Hello everyone, I am Rathod Tejas. I am from Bhavnagar. I currently doing my BE in GMIT Engineering college (Bhavnagar).</p>
