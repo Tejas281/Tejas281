@@ -10,9 +10,8 @@
 - 🥅 2020 Goals: make better profile for future
 - 🌱 I’m learning Angular,React,Typescript,MEAN,MERN.
 - I'm currently focusing on improving my DS and Algo skill
-- 📫 How to reach me:  #### *To know more about me visit my [portfolio](https://tejas281.netlify.app/)*
 
-## CP where i'm practice :
+
 - [codeforces](https://codeforces.com/profile/Rtejas "codeforces profile").
 - [codechef](https://www.codechef.com/users/rathodtejas "codechef profile").
 - [SPOJ](https://www.spoj.com/myaccount/ "spoj profile").
