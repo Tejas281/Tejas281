@@ -1,3 +1,8 @@
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+[![Linkedin Badge](https://img.shields.io/badge/-Rathod Tejas-blue?style=flat&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rathod-tejas-317b3a1aa/)](https://www.linkedin.com/in/rathod-tejas-317b3a1aa/)
+[![Portfolio Badge](https://img.shields.io/badge/-@_AkashChauhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@19it197)](https://medium.com/@19it197)
+[![Gmail Badge](https://img.shields.io/badge/-Rathod Tejas-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tejas1188245@gmail.com)](mailto:tejas1188245@gmail.com)
+### Welcome to my profile!
 ## Competitive programmer/Full stack developer
 ### <p>“Hello everyone, I am Rathod Tejas. I am from Bhavnagar. I currently doing my BE in GMIT Engineering college (Bhavnagar).</p>
 - 🥅 2020 Goals: make better profile for future
@@ -26,10 +31,4 @@
  
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rathod-tejas-317b3a1aa/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/coding.7.7.7/"><img src="" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/ac8572611"><img src="" alt="Twitter"></a> &nbsp; &nbsp;
-  <a href="ac8572611@gmail.com"><img src=""></a> &nbsp; &nbsp;
-  </p>
   </p>
