@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 [![Linkedin Badge](https://img.shields.io/badge/-Rathod Tejas-blue?style=flat&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rathod-tejas-317b3a1aa/)](https://www.linkedin.com/in/rathod-tejas-317b3a1aa/)
-[![Portfolio Badge](https://img.shields.io/badge/-@_AkashChauhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@19it197)](https://medium.com/@19it197)
+[![Portfolio Badge](https://img.shields.io/badge/-@_TejasRathod-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@19it197)]https://medium.com/@tejas1188245
 [![Gmail Badge](https://img.shields.io/badge/-Rathod Tejas-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tejas1188245@gmail.com)](mailto:tejas1188245@gmail.com)
 ### Welcome to my profile!
 ## Competitive programmer/Full stack developer
