@@ -17,12 +17,12 @@
 
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&layout=compact&show_icons=true&theme=radical)](https://github.com/Akash52/github-readme-stats)'
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas281&layout=compact&show_icons=true&theme=radical)](https://github.com/Tejas281/github-readme-stats)'
 
 
  </p>
  
- ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&theme=radical)
+ ![Rathod Tejas github stats](https://github-readme-stats.vercel.app/api?username=Tejas281&show_icons=true&theme=radical)
  
 
 
