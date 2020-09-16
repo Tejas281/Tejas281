@@ -21,9 +21,9 @@
  
  
  
- [dark]: https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
+ [dark]: https://github.com/Tejas281
 
- ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
+ ![Most used Languages](https://github.com/Tejas281)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rathod-tejas-317b3a1aa/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
