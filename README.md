@@ -19,7 +19,7 @@
 <br />
 
 
-*To know more about me visit my [portfolio](https://github.com/Tejas281)*
+*To know more about me visit my [portfolio](https://cranky-hodgkin-331c94.netlify.app/)*
 
 
 
