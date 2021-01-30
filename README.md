@@ -18,7 +18,7 @@
 <br />
 
 
-*To know more about me visit my [portfolio](https://cranky-hodgkin-331c94.netlify.app/)*
+*To know more about me visit my [portfolio]*
 
 
 
