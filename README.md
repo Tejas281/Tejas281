@@ -4,7 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-rathodtejas-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tejas1188245@gmail.com)](mailto:tejas1188245@gmail.com)
 ### Welcome to my profile!
 
-
 ## Competitive programmer/Full stack developer
 ### <p>“Hello everyone, I am Rathod Tejas. I am from Bhavnagar. I currently doing my BE in GMIT Engineering college (Bhavnagar).</p>
 - 🌱 I’m learning Angular,React,Typescript,MEAN,MERN.
@@ -17,18 +16,10 @@
 - [LeetCode](https://leetcode.com/tejas281/ "Leetcode profile").
 <br />
 
-
 *To know more about me visit my [portfolio]*
 
 
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas281&layout=compact&show_icons=true&theme=radical)](https://github.com/Tejas281/github-readme-stats)'
-
-
- </p>
- 
+ </p> 
  ![Rathod Tejas github stats](https://github-readme-stats.vercel.app/api?username=Tejas281&show_icons=true&theme=radical)
- 
-
-
   </p>
